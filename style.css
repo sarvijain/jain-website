@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+    background-color: rgb(255, 183, 0);
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color :black;
+    padding:15px;
+    font-size: 30px;
+    font-family: Georgia;
+    font-weight: 400;
+    color:white;
+
+}
+
+table, th, td {
+    border: 2px solid black;
+  }
+  table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+      background-color: rgb(243, 245, 143);
+    padding: 20px;
+  }
+  th {
+    
+    text-align: right;
+    
+  }
+  table {
+    border-spacing: 200px;
+  }
+  .box1{
+  
+background-color: rgb(153, 132, 132);
+font-size: x-large;
+word-spacing: 5px;
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+  }
+  a:link{
+    color: red;
+  }
+  a:visited{
+    color: greenyellow;
+  }
+  
+  
